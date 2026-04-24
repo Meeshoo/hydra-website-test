@@ -1,19 +1,19 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+title: Liverpool Riichi Mahjong Group
+url: "hydra-website-test/"
+baseurl: "https://meeshoo.github.io/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: A test website init
 author:
-  name:
-  email:
+  name: Me
+  email: me@me.me
   twitter: # twitter username without the @ symbol
 social:
   name: Hydra Template
@@ -27,6 +27,8 @@ timezone: Etc/UTC
 
 collections:
   staff_members:
+    _hide_content: true
+  pricing:
     _hide_content: true
 
 paginate: 10
