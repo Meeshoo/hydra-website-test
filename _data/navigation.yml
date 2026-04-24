@@ -2,7 +2,7 @@
   link: /hall-of-yakuman/
   new_window: false
   highlight: false
-- name: Join the Discord
-  link: https://www.discord.com/
-  new_window: true
+- name: Join Us!
+  link: /join-us/
+  new_window: false
   highlight: true

@@ -1,7 +1,6 @@
 ---
 name:
-position:
+yakuman:
+date:
 image_path:
-twitter:
-blurb:
 ---
