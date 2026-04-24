@@ -1,9 +1,10 @@
-.staff {
+.yakuman {
 	padding: 0;
 	list-style: none;
 	@extend %flexbox;
 	@include flex-flow(wrap);
 	text-align: center;
+	flex-direction: column;
 	li {
 		padding: 30px 20px;
 		box-sizing: border-box;
@@ -34,5 +35,10 @@
 
 	.position {
 		color: #666;
+	}
+
+	hr {
+		width: 100%;
+		border-top: 3px double;
 	}
 }

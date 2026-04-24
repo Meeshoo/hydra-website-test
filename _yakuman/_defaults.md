@@ -1,6 +1,6 @@
 ---
 name:
 yakuman:
-date:
+date_achieved:
 image_path:
 ---

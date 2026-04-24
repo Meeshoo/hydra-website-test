@@ -68,6 +68,18 @@ header {
 	position: relative;
 }
 
+.highlighted-image-grey {
+	background-color: #ccc;
+	padding: 0.2rem;
+	border-radius: 0.7rem;
+}
+
+.highlighted-image-green {
+	background-color: #216B23;
+	padding: 0.2rem;
+	border-radius: 0.7rem;
+}
+
 section {
 	padding: 100px 0;
 }
