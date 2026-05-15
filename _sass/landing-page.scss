@@ -36,9 +36,9 @@
 	text-align: center;
 	height: auto;
     min-height: 55rem;
-	background-image: url($baseurl + "/images/MahjongTiles_Header.jpg");
+	background-image: url($baseurl + "/images/MahjongHeader2.jpg");
     background-size: cover;
-    background-position: 50% 50%;
+    background-position: 50% 60%;
     background-attachment: scroll;
     background-repeat: no-repeat;
 
@@ -61,7 +61,7 @@
 		padding: 20px 10px;
 		border: 1px solid rgba(255,255,255,0);
 		color: rgba(255,255,255,.8);
-		background-color: #16461a;
+		background-color: #2fd4c6;
 		transition: .2s ease-in-out;
 
 		@media #{$mid-point} {

@@ -51,6 +51,18 @@
 	align-self: center;
 }
 
+.two-columns {
+	display: flex;
+	flex-direction: row;
+	margin: auto;
+	justify-content: center;
+}
+
+.sub-column {
+	padding: 30px;
+	margin: 30px;
+}
+
 header {
 	color: #fff;
 	padding: 20px 0;
