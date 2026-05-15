@@ -1,5 +1,6 @@
 ---
 ---
+$baseurl: "{{ site.baseurl }}";
 @import "mixins/flexbox";
 @import "mixins/columns";
 @import "variables";
