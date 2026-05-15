@@ -52,7 +52,7 @@
 	@media #{$desktop} {
 		@include columns(2);
 	}
-	color: #666;
+	color: white;
 	div {
 		break-inside: avoid;
 		padding: 25px 0;
